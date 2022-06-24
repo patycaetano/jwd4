@@ -1,0 +1,22 @@
+.container img { max-width: 400px; }
+.rodape{
+    text-align: center;
+    margin: 0;
+    background-image: url("zumbi.jpg");
+    width: 369px;
+    height: 99px;
+}
+.botao{
+    text-align: center;
+}
+.titulo{
+    text-align: center;
+}
+.container img { max-width: 400px; }
+.rodapenov{
+    text-align: center;
+    margin: 0;
+    background-image: url("forca.jpg");
+    width: 369px;
+    height: 99px;
+}
